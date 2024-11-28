@@ -5,31 +5,31 @@
 </h1>
 
 
-![](https://komarev.com/ghpvc/?username=MahmoodHashem&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hamidullah-hamidi&color=brightgreen)
 
 
-- 👋 Hi, I’m Mahmood Hashemi from Herat, Afghanistan
-- 👀 I’m interested in Mobile and Web development 
+- 👋 Hi, I’m hamidullah hamidi from Herat, Afghanistan
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on with who wants help in thier projects
 
 ### Porfolio
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge)](https://mahmood-hashemi.netlify.app/)
+  [![Portfolio Badge]()
 
 ### Connect With Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-mahmood-hashemi-55172a276/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mahmood18999963)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmahmoodham143@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidullah-hamidi-534b45291) 
+[![facebook Badge](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071629981041)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidullahh754@gmail.com)
 
 
 
 ### My Coding Adventures
 
-[![Codewars](https://www.codewars.com/users/MahmoodHashem/badges/large)](https://www.codewars.com/users/MahmoodHashem)
+[![Codewars]()]()
 
-[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/MahmoodHashem)
-[![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/MahmoodHashem)
+[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)]()
+[![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)]()
 
 
 ### Languages and Tools:
@@ -38,11 +38,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+<--! ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<--! ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) -->
+<--! ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Algorithm](https://img.shields.io/badge/Algorithm-FFA116?style=flat-square&logo=algorithm&logoColor=black)
 ![Data Structure](https://img.shields.io/badge/Data_Structure-FFA116?style=flat-square&logo=data-structure&logoColor=black)
@@ -68,7 +68,7 @@
 ### Top Repositories
 
 
-<a href="hhttps://github.com/MahmoodHashem/Mentor-Challanges">
+<--!<a href="hhttps://github.com/MahmoodHashem/Mentor-Challanges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Mentor-Challanges&theme=algolia" />
 </a>
 <a href="https://github.com/MahmoodHashem/JavaScript-Projects">
@@ -85,8 +85,7 @@
 </a>
 <a href="https://github.com/MahmoodHashem/Exercism">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Exercism&theme=algolia" />
-</a>
-
+</a>-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
