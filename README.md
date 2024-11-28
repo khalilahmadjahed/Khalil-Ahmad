@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on with who wants help in thier projects
 
 ### Porfolio
-  [![Portfolio Badge]()
+ <!-- [![Portfolio Badge]() -->
 
 ### Connect With Me:
 
@@ -25,8 +25,9 @@
 
 
 ### My Coding Adventures
-
+<!-- 
 [![Codewars]()]()
+-->
 
 [![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)]()
 [![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)]()
