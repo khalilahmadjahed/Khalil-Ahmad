@@ -38,15 +38,14 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-<--!![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)-->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-<--!![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)-->
-<--!![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)-->
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+<!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) -->
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)
 ![Algorithm](https://img.shields.io/badge/Algorithm-FFA116?style=flat-square&logo=algorithm&logoColor=black)
 ![Data Structure](https://img.shields.io/badge/Data_Structure-FFA116?style=flat-square&logo=data-structure&logoColor=black)
-
 
 
 ### My Github Stats:
@@ -68,7 +67,7 @@
 ### Top Repositories
 
 
-<--!<a href="hhttps://github.com/MahmoodHashem/Mentor-Challanges">
+<!-- <a href="hhttps://github.com/MahmoodHashem/Mentor-Challanges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Mentor-Challanges&theme=algolia" />
 </a>
 <a href="https://github.com/MahmoodHashem/JavaScript-Projects">
@@ -85,7 +84,7 @@
 </a>
 <a href="https://github.com/MahmoodHashem/Exercism">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Exercism&theme=algolia" />
-</a>-->
+</a> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
