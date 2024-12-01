@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shah+Mahmood....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hamidullah+hamidi;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -29,8 +29,8 @@
 [![Codewars]()]()
 -->
 
-[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)]()
-[![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)]()
+[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/hamidullah-hamidi)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)](https://forum.exercism.org/u/hamidullah-hamidi)
 
 
 ### Languages and Tools:
@@ -49,7 +49,7 @@
 ![Data Structure](https://img.shields.io/badge/Data_Structure-FFA116?style=flat-square&logo=data-structure&logoColor=black)
 
 
-### My Github Stats:
+<!-- ### My Github Stats:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoodHashem&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Mahmood Hashemi's Github status" />
@@ -58,11 +58,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodHashem&theme=algolia" alt="said7388" />
 </p>
 
-
+-->
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodHashem&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodHashem&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+-->
 ---
 
 ### Top Repositories
